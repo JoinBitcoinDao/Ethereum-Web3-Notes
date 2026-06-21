@@ -16,3 +16,4 @@ The purpose of this repository is to document the learning journey through Ether
 Disclaimer
 
 All content is provided for educational purposes only and should not be considered financial advice.
+Create Ethereum & Web3 learning repository
