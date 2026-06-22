@@ -18,3 +18,4 @@ Disclaimer
 All content is provided for educational purposes only and should not be considered financial advice.
 Create Ethereum & Web3 learning repository
 Add Ethereum wallet security notes
+Update Web3 resources and learning references
