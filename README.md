@@ -20,3 +20,4 @@ Create Ethereum & Web3 learning repository
 Add Ethereum wallet security notes
 Update Web3 resources and learning references
 Update Web3 resources and learning references
+fix: correct Ethereum network configuration examples
