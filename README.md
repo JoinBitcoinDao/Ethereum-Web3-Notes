@@ -23,3 +23,4 @@ Update Web3 resources and learning references
 fix: correct Ethereum network configuration examples
 refactor: reorganize Ethereum tooling and workflow guides
 today is the time
+i want to launch a collection on etherium
